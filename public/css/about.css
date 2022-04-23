@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+body{
+    background-color: white !important;
+    background-image: none !important;
+}
+/* .para1{
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    margin-top: 25px;
+} */

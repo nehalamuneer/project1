@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+body{
+    background-size: cover;
+}
+.form1{
+    margin-top: 10px;
+    margin-left: 400px;
+    padding: 100px;
+    
+    background-color: white;
+   
+   align-content: center;
+   
+}
+h1{
+    
+    padding:auto;
+   margin-top: 0;
+   margin-bottom: 5px;
+   color: blue
+
+   
+    
+}
+.frm1{
+    border-radius: 5;
+    background-color: whitesmoke;
+}
+.form2{
+    background-color: transparent;
+    
+    
+}
+.btn1{
+   display: inline;
+  
+   float: left;
+   
+   
+}
+.btn2{
+    display: inline;
+    /* margin: auto; */
+    float: right;
+    
+    
+ }
+ /* .btn3{
+    display: inline;
+    margin: auto;
+    
+ }
+ .btn3 a{
+     color: white;
+     text-decoration: none;
+    
+     
+ }
+
+ */

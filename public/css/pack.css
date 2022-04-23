@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: lightgray;
+}
+.form1{
+    margin-left:300px;
+   
+
+   
+    width: 1000px;
+    height: 1000px;
+    background-color: whitesmoke;
+    
+}
+.lab{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: large;
+}
+.inp{
+    margin-top: 20px;
+}
+.btn1{
+    display: inline;
+    margin-left: 300px;
+    margin-top: 40px;
+    width: 400px;
+    float: left;
+    
+}
+.h3{
+    color: lightslategrey;
+    margin-top: 10px;
+}
+.btn2{
+    display: inline;
+    margin: 50px;
+    width: 100px;
+   
+}
+.btn3{
+    display: inline;
+    margin: 48px;
+    width: 100px;
+    float: right;
+}

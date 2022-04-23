@@ -1,0 +1,22 @@
+body{
+   background: linear-gradient(#33ccff 0%, #ff99cc 100%) !important;
+   background-image: none !important;
+}
+#head1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 5px;
+    margin-left: 500px;
+    color: orangered;
+}
+.card1{
+    color: white;
+    text-align: center;
+    border: 1px green solid;
+    background-color: green;
+}
+.card2{
+    border-color: palevioletred;
+    margin-left: 50px;
+    box-shadow: black;
+    align-items: center;
+}

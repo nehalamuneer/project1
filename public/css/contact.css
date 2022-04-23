@@ -1,0 +1,39 @@
+/* body{
+    background-image: none !important;
+    background-color: white;
+} */
+h1{
+    color: violet;
+    font-size: bold;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+    text-align: center;
+  
+}
+.contact{
+    border: 1px solid violet;
+    margin-top: 10px;
+    
+}
+img{
+    margin-top: 10px;
+}
+.btn1{
+    display: block;
+    margin: auto;
+    width: 100px;
+}
+.contact1{
+    background-color: transparent;
+
+}
+.phone{
+    color: white;
+    
+   
+}
+.h2{
+    
+    
+}

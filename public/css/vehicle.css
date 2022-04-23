@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.h3{
+    color: purple;
+    margin-top: 60px !important;
+}
+
+.form1{
+    margin-left:300px;
+    margin-top: 50px;
+
+    
+    width: 1000px;
+    height: 500px;
+    background-color: whitesmoke;
+}
+.lab{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: large;
+}
+.inp{
+    margin-top: 20px;
+}
+.btn1{
+    display: inline;
+    margin-left: 300px;
+    margin-top: 50px;
+    width: 400px;
+    float: left;
+    
+}
